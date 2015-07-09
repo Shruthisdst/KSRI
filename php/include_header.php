@@ -14,7 +14,7 @@
 	<script src="js/jquery-2.1.1.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
   	
-	<title>Tattvaloka</title>
+	<title>Kuppuswami Sastri Research Institute</title>
 </head>
 <body>
 	<header class="cd-header">
