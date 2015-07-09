@@ -5,12 +5,11 @@
 			<h1 class="clr1 gapBelowSmall">Books List</h1>
 			<div class="article">
 				<div class="gapBelowSmall">
-					<span class="aFeature clr2">page range</span><br />
-					<span class="aTitle">Book Title</span><br />
-					<span class="aAuthor itl">Authorname</span>
+					<span class="aFeature clr2">page range</span>
 				</div>
+				<span class="aTitle">Book Title</span><br />
+				<span class="aAuthor itl">Authorname</span>
 			</div>
-
 			</div> <!-- cd-container -->
 		</div> <!-- cd-scrolling-bg -->
 	</main> <!-- cd-main-content -->
