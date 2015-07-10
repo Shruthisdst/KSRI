@@ -12,6 +12,9 @@
 	<link href="css/font-awesome-4.1.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css" /> <!-- Icon gallery (fontAwesome) style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
 	<script src="js/jquery-2.1.1.js"></script>
+	<script type="text/javascript" src="js/jquery-2.0.0.min.js" charset="UTF-8"></script>
+	<script type="text/javascript" src="js/treeview.js"></script>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
   	
 	<title>Kuppuswami Sastri Research Institute</title>
@@ -20,14 +23,15 @@
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="../index.html#home">
-				<img src="img/logo.jpg" alt="Logo">
+				<img src="img/logo.gif" alt="Logo">
+				<span>THE KUPPUSWAMI SASTRI RESEARCH INSTITUTE</span>
 			</a>
 		</div>
 		<nav class="cd-main-nav">
 			<ul>
 				<li><a href="../index.html">Home</a></li>
 				<li><a href="#">About</a></li>
-				<li><a href="volumes.php">Collection</a></li>
+				<li><a href="book.php">Collection</a></li>
 				<li><a href="#">Help</a></li>
 			</ul>
 		</nav> <!-- cd-main-nav -->

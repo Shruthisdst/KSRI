@@ -4,6 +4,10 @@ Primary style
 
 -------------------------------- */
 @font-face {
+  font-family: Gubbi;
+  src: url('Gubbi.ttf') ;
+}
+@font-face {
  font-family: 'Siddhantaa';
  src: url('siddhanta.ttf');
 }
@@ -56,9 +60,22 @@ Modules - reusable parts of our design
   display: table;
   clear: both;
 }
+.book_name{
+	margin-top: 1em;
+	border-bottom: 1px solid #D2691E;
+	font-size: 1em;
+	color: #D2691E;
+	width: 80%;
 
+}
+.page_subtitle{
+	font-size: 0.9em;
+	width: 80%;
+	text-align: right;
+	color: #D2691E;
+}
 .clr1{
-  color: #3372df !important;
+  color: #D2691E !important;
 }
 
 .clr2{
@@ -100,13 +117,51 @@ Modules - reusable parts of our design
 .simpleTable{
   margin: 0 auto;
 }
+.dnone{
+	display: none;
+}
+.archive_holder{
+	margin-top: 1em;
+	line-height: 2em;
 
+}
+.archive_holder ul{
+	margin-left: 2em;
+}
+.archive_holder ul li{
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+	border-bottom: 1px dotted #CCCCCC;
+}
+
+.archive_holder ul li a{
+    text-decoration: none;
+}
+.archive_holder ul li a:hover{
+    text-decoration: underline;
+}
+.archive_holder .treeview ul li {
+	list-style-type: none;
+	list-style-position:outside;
+    padding-bottom: 0.5em;
+	font-size: 0.9em;
+    padding-top: 0.5em;
+	text-align: justify;
+	text-indent: -18px;
+    margin-right: 2em;
+}
+.archive_holder .treeview ul li img{ 
+	vertical-align: middle;
+}
 .simpleTable td:first-child {
   border-right: 1px solid #EEE;
   border-bottom: 1px solid #EEE;
   padding: 20px 30px 20px 0;
 }
-
+.page{
+	font-size: 0.85em;
+	color: #8B0000;
+}
 .simpleTable td:last-child {
   padding: 20px 0px 20px 30px;
   border-bottom: 1px solid #EEE;
@@ -281,7 +336,7 @@ Modules - reusable parts of our design
   box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
   line-height: 1.5;
   min-height: 50px;
-  border-left: 5px solid #3372df;
+  border-left: 5px solid #D2691E;
 }
 
 .article:hover{
@@ -294,6 +349,10 @@ Modules - reusable parts of our design
 
 .article .aAuthor{
   font-size: 16px;
+  font-weight: 400;
+}
+.aAuthor_name{
+  font-size: 15px;
   font-weight: 400;
 }
 
@@ -469,20 +528,28 @@ Main components
 }
 .cd-header #cd-logo {
   float: left;
-  margin: 50px 0 0 5%;
+  margin: 13px 0 0 5%;
 }
 .cd-header #cd-logo img {
   display: block;
   height: 80px;
   float: left;
 }
-
+.cd-header #cd-logo span {
+  display: inline-block;
+  padding: .6em 1em;
+  border-top: none;
+  color: #3d3536;
+  font-weight: bold;
+  font-size: 14px;
+  font-size: 0.875rem;
+}
 @media only screen and (min-width: 930px) {
   .cd-header {
-    height: 85px;
+    height: 70px;
   }
   .cd-header #cd-logo {
-    margin: 0px 0 0 0;
+    margin: 20px 0 0 5%;
   }
 }
 
@@ -564,7 +631,7 @@ Main components
     font-size: 0.875rem;
   }
   .no-touch .cd-main-nav a:hover {
-    color: #3372df;
+    color: #D2691E;
     transition: color 0.3s ease-out;
   }
 }
