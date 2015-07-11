@@ -25,7 +25,6 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Roboto", sans-serif;
   color: #3d3536;
   background-color: white;
 }
@@ -61,15 +60,29 @@ Modules - reusable parts of our design
   clear: both;
 }
 .book_name{
-	margin-top: 1em;
+	margin-top: 1.2em;
 	border-bottom: 1px solid #D2691E;
+	font-size: 1.2em;
+	color: #D2691E;
+	width: 80%;
+	font-family: "Roboto", sans-serif;
+}
+.page_subtitle{
 	font-size: 1em;
+	width: 80%;
+	text-align: right;
+	color: #D2691E;
+}
+.san_book_name{
+	margin-top: 1.2em;
+	border-bottom: 1px solid #D2691E;
+	font-size: 1.2em;
 	color: #D2691E;
 	width: 80%;
 
 }
-.page_subtitle{
-	font-size: 0.9em;
+.san_page_subtitle{
+	font-size: 1em;
 	width: 80%;
 	text-align: right;
 	color: #D2691E;
@@ -123,7 +136,7 @@ Modules - reusable parts of our design
 .archive_holder{
 	margin-top: 1em;
 	line-height: 2em;
-
+	font-family: "Roboto", sans-serif;
 }
 .archive_holder ul{
 	margin-left: 2em;
@@ -246,6 +259,8 @@ Modules - reusable parts of our design
   margin-bottom: 60px;
   text-align: center;
   float: left;
+  font-family: "Roboto", sans-serif;
+
 }
 
 .archiveIcon a{
@@ -543,6 +558,13 @@ Main components
   font-weight: bold;
   font-size: 14px;
   font-size: 0.875rem;
+  font-family: "Roboto", sans-serif;
+
+}
+.cd-header #cd-logo span .sub_title{
+	font-size: 10px;
+	line-height: 15px;
+	margin-left: 12px;
 }
 @media only screen and (min-width: 930px) {
   .cd-header {
@@ -552,7 +574,15 @@ Main components
     margin: 20px 0 0 5%;
   }
 }
-
+#cover{
+	margin: -5em 0em 0em 0em;
+	display: block;
+	height: 80px;
+	float: right;
+}
+#cover img{
+	border: 1px solid #000;
+}
 .cd-main-nav {
   float: right;
   margin-right: 5%;
@@ -629,6 +659,8 @@ Main components
     font-weight: bold;
     font-size: 14px;
     font-size: 0.875rem;
+    font-family: "Roboto", sans-serif;
+
   }
   .no-touch .cd-main-nav a:hover {
     color: #D2691E;
@@ -706,6 +738,8 @@ Main components
   max-width: 377px;
   text-align: center;
   padding: 40px;
+    font-family: "Roboto", sans-serif;
+
 }
 
 .bannerBackHalf{
@@ -782,10 +816,13 @@ Main components
   font-size: 23px;
   margin: 20px 0;
   font-weight: 400;
+  font-family: "Roboto", sans-serif;
 } 
 
 .cd-container p {
   margin: 20px 0;
+  font-family: "Roboto", sans-serif;
+
 }
 
 .cd-fixed-bg.cd-bg-1 {

@@ -3,6 +3,7 @@
 		<div class="cd-scrolling-bg cd-color-2">
 			<div class="cd-container">
 				<div class="book_name">Transactions of the Society Instituted In Bengal, for inquiring into the History And Antiquities, the Arts, Science, and Literature, of ASIA.</div>
+				<div id="cover"><img src="img/eng_cover.jpg" alt="Cover"></div>
 				<div class="archive_holder">
 					<div class="treeview">
 						<ul id="ul_id1">

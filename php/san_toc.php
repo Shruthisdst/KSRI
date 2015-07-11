@@ -2,8 +2,9 @@
 <main class="cd-main-content">
 		<div class="cd-scrolling-bg cd-color-2">
 			<div class="cd-container">
-				<div class="book_name">निर्णयसिन्धुः</div>
-				<div class="page_subtitle">श्रीकमलाकरभट्टप्रणीतः</div>
+				<div class="san_book_name">निर्णयसिन्धुः</div>
+				<div class="san_page_subtitle">श्रीकमलाकरभट्टप्रणीतः</div>
+				<div id="cover"><img src="img/san_cover.jpg" alt="Cover"></div>
 				<div class="archive_holder">
 					<div class="treeview">
 						<ul id="ul_id1">
@@ -370,6 +371,133 @@
 											<li id="li_id344"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0092.djvu">श्रावणपौर्णमास्यां रक्षाबन्धननिर्णयः</a></span></li>
 											<li id="li_id345"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0093.djvu">अत्रैव हयग्रीवोत्पत्तिः श्रवणाकर्म च</a></span></li>
 											<li id="li_id346"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0093.djvu">श्रावणकृष्णद्वितीयायामशून्यव्रतम्</a></span></li>
+										</ul>
+									</li>
+									<li id="li_id347"><img class="bpointer" title="Expand" src="img/plus.gif" alt="Expand or Collapse" onclick="display_block_inside(this)" /><span class="sub_titlespan"><a href="../books/001/0093.djvu">अथ भाद्रपदमासः</a></span>
+										<ul class="dnone" id="ul_id9">
+											<li id="li_id348"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0093.djvu">सिंहसंक्रान्तौ गोः प्रसवे शान्तिः</a></span></li>
+											<li id="li_id349"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0093.djvu">महिष्यादिप्रसवशान्तयः</a></span></li>
+											<li id="li_id350"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0094.djvu">कज्जलीबहुलाव्रतनिर्णयः</a></span></li>
+											<li id="li_id351"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0094.djvu">अत्र गोःपूजा यवान्नाशनं च</a></span></li>
+											<li id="li_id352"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0094.djvu">भाद्रकृष्णषष्ठी हलषष्ठी</a></span></li>
+											<li id="li_id353"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0094.djvu">शीतलाव्रतविधिः</a></span></li>
+											<li id="li_id354"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0094.djvu">जन्माष्टमीव्रतम्</a></span></li>
+											<li id="li_id355"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0097.djvu">अष्टम्यां निशीथवेध एव मुख्यः</a></span></li>
+											<li id="li_id356"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0097.djvu">अष्टम्यां सेहिणीराहित्यतत्सत्वादिभेदेन निर्णयः</a></span></li>
+											<li id="li_id357"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0098.djvu">पारणानिर्णयः</a></span></li>
+											<li id="li_id358"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0099.djvu">अष्टम्यां देवकीकृष्णादिप्रतिमास्थापनम्</a></span></li>
+											<li id="li_id359"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0100.djvu">कुशग्रहणविधिः</a></span></li>
+											<li id="li_id360"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0100.djvu">हरितालिकाव्रतनिर्णयः</a></span></li>
+											<li id="li_id361"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0100.djvu">भाद्रशुक्लचतुर्थी पूर्वविद्धा</a></span></li>
+											<li id="li_id362"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0101.djvu">सिद्धिविनायकव्रतम्</a></span></li>
+											<li id="li_id363"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0101.djvu">अत्र चन्द्रदर्शनं निषिद्धम्</a></span></li>
+											<li id="li_id364"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0101.djvu">ऋषिपञ्चमी मध्याह्नव्यापिनी</a></span></li>
+											<li id="li_id365"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0101.djvu">सूर्यषष्ठी सप्तमीयुता</a></span></li>
+											<li id="li_id366"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0101.djvu">मुक्ताभरणसप्तमी</a></span></li>
+											<li id="li_id367"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0101.djvu">दूर्वाष्टमीव्रतम्</a></span></li>
+											<li id="li_id368"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0102.djvu">तत्र पूजाविधिः</a></span></li>
+											<li id="li_id369"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0102.djvu">ज्येष्ठाव्रतविधिः</a></span></li>
+											<li id="li_id370"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0103.djvu">शुक्लद्वादश्यां पारणानिर्णयः</a></span></li>
+											<li id="li_id371"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0103.djvu">विष्णुपरिवर्तनोत्सवः</a></span></li>
+											<li id="li_id372"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0103.djvu">अत्रैव शकध्वजोत्थापनम्</a></span></li>
+											<li id="li_id373"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0103.djvu">श्रवणद्वादशी</a></span></li>
+											<li id="li_id374"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0104.djvu">श्रवणद्वादश्यां पूजादिविधिः</a></span></li>
+											<li id="li_id375"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0105.djvu">वामनद्वादशीव्रतविधिः</a></span></li>
+											<li id="li_id376"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0105.djvu">तत्र पूजाविधिः</a></span></li>
+											<li id="li_id377"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0106.djvu">दुग्धव्रतविधिः</a></span></li>
+											<li id="li_id378"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0106.djvu">भाद्रपदचतुर्दश्यामनन्तव्रतविधिः</a></span></li>
+											<li id="li_id379"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0107.djvu">अत्रैवागस्त्यार्घ्यदानविधिः</a></span></li>
+											<li id="li_id380"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0107.djvu">भाद्रशुक्लपौर्णमास्यां पूजाप्रकारः</a></span></li>
+											<li id="li_id381"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0108.djvu">नान्दीमुखश्राद्धम्</a></span></li>
+										</ul>
+									</li>
+									<li id="li_id382"><img class="bpointer" title="Expand" src="img/plus.gif" alt="Expand or Collapse" onclick="display_block_inside(this)" /><span class="sub_titlespan"><a href="../books/001/0108.djvu">अथाश्विनमासः</a></span>
+										<ul class="dnone" id="ul_id10">
+											<li id="li_id383"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0108.djvu">कन्यासंक्रान्तिः</a></span></li>
+											<li id="li_id384"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0108.djvu">महालयः</a></span></li>
+											<li id="li_id385"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0109.djvu">षोडशमहालयनिर्णयः</a></span></li>
+											<li id="li_id386"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0109.djvu">महालये विधवायाः पार्वणचतुष्टयम्</a></span></li>
+											<li id="li_id387"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0109.djvu">महालये वर्ज्यतिथिनक्षत्रादि</a></span></li>
+											<li id="li_id388"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0109.djvu">एषामपवादः</a></span></li>
+											<li id="li_id389"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0111.djvu">संन्यासिनां महालयः</a></span></li>
+											<li id="li_id390"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0111.djvu">कालातिक्रमे वृश्चिकपर्यन्तं गौणकालः</a></span></li>
+											<li id="li_id391"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0111.djvu">महालयादिश्राद्धमन्नेनैव कार्यं नत्वामेन</a></span></li>
+											<li id="li_id392"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0111.djvu">महालये पितृपरिग्रहनिर्णयः</a></span></li>
+											<li id="li_id393"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0111.djvu">अनेकसापत्नमातृषु पिण्डदानम्</a></span></li>
+											<li id="li_id394"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0112.djvu">बहुब्राह्मणाभावे</a></span></li>
+											<li id="li_id395"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0112.djvu">एकोद्दिष्टस्वरूपम्</a></span></li>
+											<li id="li_id396"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0112.djvu">पाणिहोमः</a></span></li>
+											<li id="li_id397"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0112.djvu">अत्र धूरिलोचनौ देवौ</a></span></li>
+											<li id="li_id398"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0112.djvu">संन्यस्तपितृकेण जीवत्पितृकेणापि महालयः कार्यः</a></span></li>
+											<li id="li_id399"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0112.djvu">जीवत्पितृके निषेधः</a></span></li>
+											<li id="li_id400"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0112.djvu">महालये तर्पणनिर्णयः</a></span></li>
+											<li id="li_id401"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0113.djvu">निषिद्धदिने तर्पणम्</a></span></li>
+											<li id="li_id402"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0113.djvu">अधिमासे महालयनिषेधः</a></span></li>
+											<li id="li_id403"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0113.djvu">महालये कृते फलम्</a></span></li>
+											<li id="li_id404"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0113.djvu">महालयाकरणे दोषः</a></span></li>
+											<li id="li_id405"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0113.djvu">महालयाकरणे प्रायश्चित्तम्</a></span></li>
+											<li id="li_id406"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0113.djvu">भरणीश्राद्धम्</a></span></li>
+											<li id="li_id407"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0113.djvu">कपिलाषष्टी</a></span></li>
+											<li id="li_id408"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0114.djvu">अत्र विशेषो हेमाद्रौ स्कान्दे</a></span></li>
+											<li id="li_id409"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0114.djvu">चन्द्रषष्ठीव्रतम्</a></span></li>
+											<li id="li_id410"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0114.djvu">माघ्यावर्षश्राद्धम्</a></span></li>
+											<li id="li_id411"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0114.djvu">महालक्ष्मीव्रतम्</a></span></li>
+											<li id="li_id412"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0115.djvu">अन्वष्टकाश्राद्धम्</a></span></li>
+											<li id="li_id413"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0116.djvu">अन्वष्टकाश्राद्धं अनुपनीतेनापि कार्यम्</a></span></li>
+											<li id="li_id414"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0116.djvu">अत्राशक्तावनुकल्पमाहाश्वलायनः</a></span></li>
+											<li id="li_id415"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0116.djvu">एतदकरणे प्रायश्चित्तम्</a></span></li>
+											<li id="li_id416"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0116.djvu">भाद्रकृष्णनवम्यां सुवासिनीभोजनम्</a></span></li>
+											<li id="li_id417"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0117.djvu">द्वादश्यां संन्यासिनः श्राद्धम्</a></span></li>
+											<li id="li_id418"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0117.djvu">मघात्रयोदशीश्राद्धम्</a></span></li>
+											<li id="li_id419"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0117.djvu">गजच्छायोक्ता</a></span></li>
+											<li id="li_id420"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0117.djvu">मघात्रयोदशीमहालयः</a></span></li>
+											<li id="li_id421"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0118.djvu">युगादिश्राद्धानां तन्त्रेण प्रयोगः</a></span></li>
+											<li id="li_id422"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0118.djvu">शस्त्रविषाद्यपघातविपन्नानां चतुर्दश्यां श्राद्धम्</a></span></li>
+											<li id="li_id423"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0119.djvu">अमावास्यायां गजच्छायानिर्णयः</a></span></li>
+											<li id="li_id424"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0120.djvu">दौहित्रश्राद्धं जीवत्पितृकेणापि कार्यम्</a></span></li>
+											<li id="li_id425"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0120.djvu">नवरात्रारम्भे प्रतिपन्निर्णयः</a></span></li>
+											<li id="li_id426"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0121.djvu">अत्र देवीपूजायाः प्राधान्यात्फलम्</a></span></li>
+											<li id="li_id427"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0123.djvu">अत्र उपवासादिरात्रिपूजाविचारः</a></span></li>
+											<li id="li_id428"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0123.djvu">वैधृत्यादिदुष्टयोगे प्रतिपन्न ग्राह्या</a></span></li>
+											<li id="li_id429"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0124.djvu">देवीनवाक्षरमन्त्रेण पूजाविधानम्</a></span></li>
+											<li id="li_id430"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0124.djvu">कुमारीपूजनविधिः</a></span></li>
+											<li id="li_id431"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0125.djvu">नवरात्रे वेदपारायणचण्डीपाठादिविधिः</a></span></li>
+											<li id="li_id432"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0126.djvu">प्रतिपदादौ विशेषः</a></span></li>
+											<li id="li_id433"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0126.djvu">स्त्रीकर्तृकव्रते विशेषः</a></span></li>
+											<li id="li_id434"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0126.djvu">त्राशौचे निर्णयः</a></span></li>
+											<li id="li_id435"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0127.djvu">गङ्गललिताव्रतम्</a></span></li>
+											<li id="li_id436"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0127.djvu">रस्वतीस्थापनपूजनादि</a></span></li>
+											<li id="li_id437"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0127.djvu">ष्ठ्यां बिल्वाभिमन्त्रणम्</a></span></li>
+											<li id="li_id438"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0127.djvu">स्यामेव देवीत्रिरात्रम्</a></span></li>
+											<li id="li_id439"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0128.djvu">त्रिकापूजाविधिः</a></span></li>
+											<li id="li_id450"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0128.djvu">वीगृहप्रतिमादिकरणविधिः</a></span></li>
+											<li id="li_id451"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0129.djvu">हेव्याः प्रतिमालक्षणम्</a></span></li>
+											<li id="li_id452"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0129.djvu">हेमादिप्रतिमाकरणम्</a></span></li>
+											<li id="li_id453"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0129.djvu">प्रतिमाभावे विशेषः</a></span></li>
+											<li id="li_id454"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0129.djvu">सप्तम्यां पत्रिकादेवीपूजनादिविधिः</a></span></li>
+											<li id="li_id455"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0129.djvu">अत्र शस्त्रादिपूजोक्ता</a></span></li>
+											<li id="li_id456"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0130.djvu">दुर्गास्तुतिः</a></span></li>
+											<li id="li_id457"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0130.djvu">महाष्टमीव्रतम्</a></span></li>
+											<li id="li_id458"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0131.djvu">महानवमी मूलयुक्ता</a></span></li>
+											<li id="li_id459"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0131.djvu">पुत्रवतोऽष्टम्यामुपवासनिषेधः</a></span></li>
+											<li id="li_id460"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0132.djvu">लोहाभिसारिकं कर्म</a></span></li>
+											<li id="li_id461"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0133.djvu">राजचिह्नानां पृथक् पूजामन्त्राः</a></span></li>
+											<li id="li_id462"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0134.djvu">नवम्यां नृपतिकर्तव्यविशेषः</a></span></li>
+											<li id="li_id463"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0135.djvu">बलिदानविधिः</a></span></li>
+											<li id="li_id464"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0135.djvu">महानवमी पूर्वविद्धा</a></span></li>
+											<li id="li_id465"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0136.djvu">होमप्रकारः</a></span></li>
+											<li id="li_id466"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0137.djvu">बलिदानप्रकारः</a></span></li>
+											<li id="li_id467"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0137.djvu">शतचण्डीविधानम्</a></span></li>
+											<li id="li_id468"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0138.djvu">सहस्त्रचण्डीप्रकारः</a></span></li>
+											<li id="li_id469"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0138.djvu">नवरात्रपारणानिर्णयः</a></span></li>
+											<li id="li_id470"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0139.djvu">स्त्रीणां रजोदर्शने पारणानिर्णयः</a></span></li>
+											<li id="li_id471"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0140.djvu">दशम्यां देवीविसर्जनविधिः</a></span></li>
+											<li id="li_id472"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0140.djvu">विजयादशमी</a></span></li>
+											<li id="li_id473"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0141.djvu">पौर्णमासीनिर्णयः</a></span></li>
+											<li id="li_id474"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0141.djvu">पौर्णमास्यां लक्ष्मीपूजनादिविधिः</a></span></li>
+											<li id="li_id475"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0141.djvu">आश्वयुजीकर्मविधिः</a></span></li>
+											<li id="li_id476"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0142.djvu">आग्रयणनिर्णयः</a></span></li>
+											<li id="li_id477"><img class="bpointer" src="img/bullet_1.gif" alt="Point" /><span class="sub_titlespan"><a href="../books/001/0142.djvu">अस्याऽकरणे प्रायश्चित्तम्</a></span></li>
 										</ul>
 									</li>
 								</ul>
