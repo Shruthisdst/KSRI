@@ -5,14 +5,14 @@
 			<h1 class="clr1 gapBelowSmall">Collection</h1>
 			<div class="article">
 				<div class="gapBelowSmall">
-					<span class="aFeature clr2">pp 1 - 142&nbsp;&nbsp;|&nbsp;&nbsp;Volume 2</span>
+					<span class="aFeature clr2">pp 1 - 449&nbsp;&nbsp;|&nbsp;&nbsp;Volume 2</span>
 				</div>
 				<span class="aTitle"><a href="san_toc.php">निर्णयसिन्धुः</a></span><br />
 				<span class="aAuthor itl">श्रीकमलाकरभट्टप्रणीतः</span>
 			</div>
 			<div class="article">
 				<div class="gapBelowSmall">
-					<span class="aFeature clr2">pp 1 - 487&nbsp;&nbsp;|&nbsp;&nbsp;<span style="font-size: 1.1em;">आवृत्तिः २</span></span>
+					<span class="aFeature clr2">pp 1 - 497&nbsp;&nbsp;|&nbsp;&nbsp;<span style="font-size: 1.1em;">आवृत्तिः २</span></span>
 				</div>
 				<span class="aTitle"><a href="eng_toc.php"><span style="font-size: 0.9em;">Transactions of the Society Instituted In Bengal, for inquiring into the History And Antiquities, the Arts, Science, and Literature, of ASIA.</span></a></span>
 			</div>
