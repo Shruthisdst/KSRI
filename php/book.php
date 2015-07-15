@@ -9,12 +9,14 @@
 				</div>
 				<span class="aTitle"><a href="san_toc.php">निर्णयसिन्धुः</a></span><br />
 				<span class="aAuthor itl">श्रीकमलाकरभट्टप्रणीतः</span>
+				<p class="downloadspan"><a href="../Volumes/pdf/5390/index.pdf" target="_blank">Download pdf</a></p>
 			</div>
 			<div class="article">
 				<div class="gapBelowSmall">
 					<span class="aFeature clr2">pp 1 - 497&nbsp;&nbsp;|&nbsp;&nbsp;<span style="font-size: 1.1em;">आवृत्तिः २</span></span>
 				</div>
 				<span class="aTitle"><a href="eng_toc.php"><span style="font-size: 0.9em;">Transactions of the Society Instituted In Bengal, for inquiring into the History And Antiquities, the Arts, Science, and Literature, of ASIA.</span></a></span>
+				<p class="downloadspan"><a href="../Volumes/pdf/1564/index.pdf" target="_blank">Download pdf</a></p>
 			</div>
 			</div> <!-- cd-container -->
 		</div> <!-- cd-scrolling-bg -->

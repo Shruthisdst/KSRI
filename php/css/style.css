@@ -469,6 +469,11 @@ Modules - reusable parts of our design
   line-height: 1;
 }
 
+.downloadspan 
+{
+	font-size: 0.8em;
+	color: #BF4949;
+}
 .moreNav{
   display: inline-block;
 }
