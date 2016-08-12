@@ -16,14 +16,13 @@
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
   	
-	<title>Kuppuswami Sastri Research Institute</title>
+	<title>A Sanskrit Digital Library</title>
 </head>
 <body>
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="../index.html#home">
-				<img src="img/logo.gif" alt="Logo">
-				<span>THE KUPPUSWAMI SASTRI RESEARCH INSTITUTE<br /><span class="sub_title">"PRESERVING" KNOWLEDGE OF SANSKRIT AND INDOLOGY!</span></span>
+				<span>A Sanskrit Digital Library</span>
 			</a>
 		</div>
 		<nav class="cd-main-nav">
